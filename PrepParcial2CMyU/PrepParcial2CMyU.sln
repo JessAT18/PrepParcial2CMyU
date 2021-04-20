@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiProductor", "apiProductor\apiProductor.csproj", "{3C7239BC-3D61-4739-8E3E-2A1B37DCAA5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProductor", "apiProductor\apiProductor.csproj", "{3C7239BC-3D61-4739-8E3E-2A1B37DCAA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncConsumidor", "fncConsumidor\fncConsumidor.csproj", "{A188F362-8CD8-459B-995C-71CB0B04BE5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3C7239BC-3D61-4739-8E3E-2A1B37DCAA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C7239BC-3D61-4739-8E3E-2A1B37DCAA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C7239BC-3D61-4739-8E3E-2A1B37DCAA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A188F362-8CD8-459B-995C-71CB0B04BE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A188F362-8CD8-459B-995C-71CB0B04BE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A188F362-8CD8-459B-995C-71CB0B04BE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A188F362-8CD8-459B-995C-71CB0B04BE5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
